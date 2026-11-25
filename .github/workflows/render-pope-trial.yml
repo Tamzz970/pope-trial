@@ -1,0 +1,31 @@
+name: Render PopeTrial (kualitas penuh 30fps)
+on:
+  workflow_dispatch:
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install ffmpeg + library Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libdbus-1-3 libatk1.0-0t64 libatk-bridge2.0-0t64 libasound2t64 libxrandr2 libxkbcommon0 libxfixes3 libxcomposite1 libxdamage1 libgbm1 libcups2t64 libpango-1.0-0 libcairo2
+      - name: Install engine
+        working-directory: engine
+        run: npm install
+      - name: Download browser
+        working-directory: engine
+        run: npx remotion browser ensure
+      - name: Render (FULL quality, 720x1280, 30fps)
+        working-directory: engine
+        run: |
+          mkdir -p out
+          npx remotion render PopeTrial out/PopeTrial-full.mp4 --gl=swangle --concurrency=4 --codec=h264 --crf=17 --log=info
+      - uses: actions/upload-artifact@v4
+        with:
+          name: PopeTrial-full-mp4
+          path: engine/out/PopeTrial-full.mp4

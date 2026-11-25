@@ -1,0 +1,627 @@
+[
+ {
+  "word": "Roma",
+  "start": 0.09,
+  "end": 0.69
+ },
+ {
+  "word": "Januari",
+  "start": 0.93,
+  "end": 1.57
+ },
+ {
+  "word": "tahun",
+  "start": 1.57,
+  "end": 1.94
+ },
+ {
+  "word": "897",
+  "start": 2.22,
+  "end": 3.81
+ },
+ {
+  "word": "Aula",
+  "start": 4.15,
+  "end": 4.43
+ },
+ {
+  "word": "Basilika",
+  "start": 4.43,
+  "end": 4.95
+ },
+ {
+  "word": "Lateran",
+  "start": 4.95,
+  "end": 5.52
+ },
+ {
+  "word": "penuh",
+  "start": 5.52,
+  "end": 5.85
+ },
+ {
+  "word": "para",
+  "start": 5.85,
+  "end": 6.16
+ },
+ {
+  "word": "pendeta",
+  "start": 6.16,
+  "end": 6.66
+ },
+ {
+  "word": "dan",
+  "start": 6.98,
+  "end": 7.2
+ },
+ {
+  "word": "semuanya",
+  "start": 7.2,
+  "end": 7.89
+ },
+ {
+  "word": "diam",
+  "start": 7.89,
+  "end": 8.33
+ },
+ {
+  "word": "Di",
+  "start": 8.73,
+  "end": 8.83
+ },
+ {
+  "word": "kursi",
+  "start": 8.83,
+  "end": 9.14
+ },
+ {
+  "word": "pengadilan",
+  "start": 9.14,
+  "end": 9.98
+ },
+ {
+  "word": "duduk",
+  "start": 9.98,
+  "end": 10.32
+ },
+ {
+  "word": "seorang",
+  "start": 10.32,
+  "end": 10.71
+ },
+ {
+  "word": "paus",
+  "start": 10.71,
+  "end": 11.28
+ },
+ {
+  "word": "Tapi",
+  "start": 11.48,
+  "end": 11.72
+ },
+ {
+  "word": "dia",
+  "start": 11.72,
+  "end": 11.9
+ },
+ {
+  "word": "sudah",
+  "start": 11.9,
+  "end": 12.18
+ },
+ {
+  "word": "mati",
+  "start": 12.18,
+  "end": 12.62
+ },
+ {
+  "word": "tujuh",
+  "start": 12.62,
+  "end": 12.88
+ },
+ {
+  "word": "bulan",
+  "start": 12.88,
+  "end": 13.22
+ },
+ {
+  "word": "Namanya",
+  "start": 13.48,
+  "end": 14.04
+ },
+ {
+  "word": "Formosus",
+  "start": 14.04,
+  "end": 14.9
+ },
+ {
+  "word": "Penggantinya",
+  "start": 15.1,
+  "end": 15.75
+ },
+ {
+  "word": "Paus",
+  "start": 15.75,
+  "end": 16.16
+ },
+ {
+  "word": "Stefanus",
+  "start": 16.16,
+  "end": 16.62
+ },
+ {
+  "word": "Keenam",
+  "start": 16.62,
+  "end": 17.26
+ },
+ {
+  "word": "menyuruh",
+  "start": 17.26,
+  "end": 17.66
+ },
+ {
+  "word": "makamnya",
+  "start": 17.66,
+  "end": 18.09
+ },
+ {
+  "word": "digali",
+  "start": 18.09,
+  "end": 18.66
+ },
+ {
+  "word": "Jasadnya",
+  "start": 18.83,
+  "end": 19.31
+ },
+ {
+  "word": "didandani",
+  "start": 19.31,
+  "end": 19.85
+ },
+ {
+  "word": "jubah",
+  "start": 19.85,
+  "end": 20.1
+ },
+ {
+  "word": "kebesaran",
+  "start": 20.1,
+  "end": 21.1
+ },
+ {
+  "word": "lalu",
+  "start": 21.1,
+  "end": 21.37
+ },
+ {
+  "word": "didudukkan",
+  "start": 21.37,
+  "end": 21.99
+ },
+ {
+  "word": "di",
+  "start": 21.99,
+  "end": 22.07
+ },
+ {
+  "word": "depan",
+  "start": 22.07,
+  "end": 22.3
+ },
+ {
+  "word": "hakim",
+  "start": 22.3,
+  "end": 22.7
+ },
+ {
+  "word": "Tuduhannya",
+  "start": 22.88,
+  "end": 23.46
+ },
+ {
+  "word": "sumpah",
+  "start": 23.63,
+  "end": 24.1
+ },
+ {
+  "word": "palsu",
+  "start": 24.1,
+  "end": 24.69
+ },
+ {
+  "word": "dan",
+  "start": 24.69,
+  "end": 24.86
+ },
+ {
+  "word": "merebut",
+  "start": 24.86,
+  "end": 25.31
+ },
+ {
+  "word": "takhta",
+  "start": 25.31,
+  "end": 25.68
+ },
+ {
+  "word": "secara",
+  "start": 25.68,
+  "end": 26.11
+ },
+ {
+  "word": "ilegal",
+  "start": 26.11,
+  "end": 26.86
+ },
+ {
+  "word": "Seorang",
+  "start": 26.86,
+  "end": 27.24
+ },
+ {
+  "word": "diakon",
+  "start": 27.24,
+  "end": 27.65
+ },
+ {
+  "word": "ditunjuk",
+  "start": 27.65,
+  "end": 28.19
+ },
+ {
+  "word": "untuk",
+  "start": 28.19,
+  "end": 28.39
+ },
+ {
+  "word": "membelanya",
+  "start": 28.39,
+  "end": 28.9
+ },
+ {
+  "word": "padahal",
+  "start": 29.11,
+  "end": 29.68
+ },
+ {
+  "word": "terdakwa",
+  "start": 29.68,
+  "end": 30.2
+ },
+ {
+  "word": "tidak",
+  "start": 30.2,
+  "end": 30.41
+ },
+ {
+  "word": "bisa",
+  "start": 30.41,
+  "end": 30.6
+ },
+ {
+  "word": "bicara",
+  "start": 30.6,
+  "end": 31.05
+ },
+ {
+  "word": "Stefanus",
+  "start": 31.28,
+  "end": 31.94
+ },
+ {
+  "word": "berteriak",
+  "start": 31.94,
+  "end": 32.6
+ },
+ {
+  "word": "pada",
+  "start": 32.6,
+  "end": 32.78
+ },
+ {
+  "word": "mayat",
+  "start": 32.78,
+  "end": 33.08
+ },
+ {
+  "word": "itu",
+  "start": 33.08,
+  "end": 33.31
+ },
+ {
+  "word": "di",
+  "start": 33.31,
+  "end": 33.38
+ },
+ {
+  "word": "depan",
+  "start": 33.38,
+  "end": 33.78
+ },
+ {
+  "word": "semua",
+  "start": 33.78,
+  "end": 34.08
+ },
+ {
+  "word": "orang",
+  "start": 34.08,
+  "end": 34.37
+ },
+ {
+  "word": "Hasilnya",
+  "start": 34.58,
+  "end": 35.21
+ },
+ {
+  "word": "sudah",
+  "start": 35.21,
+  "end": 35.6
+ },
+ {
+  "word": "bisa",
+  "start": 35.6,
+  "end": 35.8
+ },
+ {
+  "word": "ditebak",
+  "start": 35.8,
+  "end": 36.53
+ },
+ {
+  "word": "Bersalah",
+  "start": 36.53,
+  "end": 37.14
+ },
+ {
+  "word": "Masa",
+  "start": 37.44,
+  "end": 37.69
+ },
+ {
+  "word": "kepausannya",
+  "start": 37.69,
+  "end": 38.24
+ },
+ {
+  "word": "dibatalkan",
+  "start": 38.24,
+  "end": 39.23
+ },
+ {
+  "word": "jubahnya",
+  "start": 39.23,
+  "end": 39.7
+ },
+ {
+  "word": "dilucuti",
+  "start": 39.7,
+  "end": 40.6
+ },
+ {
+  "word": "dan",
+  "start": 40.6,
+  "end": 40.83
+ },
+ {
+  "word": "jasadnya",
+  "start": 40.83,
+  "end": 41.32
+ },
+ {
+  "word": "dibuang",
+  "start": 41.32,
+  "end": 41.91
+ },
+ {
+  "word": "ke",
+  "start": 41.91,
+  "end": 41.98
+ },
+ {
+  "word": "Sungai",
+  "start": 41.98,
+  "end": 42.25
+ },
+ {
+  "word": "Tiber",
+  "start": 42.25,
+  "end": 42.65
+ },
+ {
+  "word": "Tapi",
+  "start": 42.83,
+  "end": 43.12
+ },
+ {
+  "word": "Roma",
+  "start": 43.12,
+  "end": 43.62
+ },
+ {
+  "word": "tidak",
+  "start": 43.62,
+  "end": 44.15
+ },
+ {
+  "word": "memaafkan",
+  "start": 44.15,
+  "end": 44.7
+ },
+ {
+  "word": "pertunjukan",
+  "start": 44.7,
+  "end": 45.22
+ },
+ {
+  "word": "itu",
+  "start": 45.22,
+  "end": 45.48
+ },
+ {
+  "word": "Rakyat",
+  "start": 45.61,
+  "end": 46.08
+ },
+ {
+  "word": "murka",
+  "start": 46.08,
+  "end": 46.66
+ },
+ {
+  "word": "Stefanus",
+  "start": 46.82,
+  "end": 47.45
+ },
+ {
+  "word": "dipenjara",
+  "start": 47.45,
+  "end": 48.34
+ },
+ {
+  "word": "lalu",
+  "start": 48.34,
+  "end": 48.57
+ },
+ {
+  "word": "dibunuh",
+  "start": 48.57,
+  "end": 49.13
+ },
+ {
+  "word": "beberapa",
+  "start": 49.13,
+  "end": 49.52
+ },
+ {
+  "word": "bulan",
+  "start": 49.52,
+  "end": 49.85
+ },
+ {
+  "word": "kemudian",
+  "start": 49.85,
+  "end": 50.33
+ },
+ {
+  "word": "Paus",
+  "start": 50.48,
+  "end": 50.74
+ },
+ {
+  "word": "berikutnya",
+  "start": 50.74,
+  "end": 51.25
+ },
+ {
+  "word": "membatalkan",
+  "start": 51.25,
+  "end": 51.98
+ },
+ {
+  "word": "semuanya",
+  "start": 51.98,
+  "end": 52.32
+ },
+ {
+  "word": "menguburkan",
+  "start": 52.32,
+  "end": 53.25
+ },
+ {
+  "word": "Formosus",
+  "start": 53.25,
+  "end": 53.72
+ },
+ {
+  "word": "kembali",
+  "start": 53.72,
+  "end": 54.27
+ },
+ {
+  "word": "dan",
+  "start": 54.38,
+  "end": 54.57
+ },
+ {
+  "word": "melarang",
+  "start": 54.57,
+  "end": 55.11
+ },
+ {
+  "word": "pengadilan",
+  "start": 55.11,
+  "end": 55.62
+ },
+ {
+  "word": "terhadap",
+  "start": 55.62,
+  "end": 56.0
+ },
+ {
+  "word": "orang",
+  "start": 56.0,
+  "end": 56.2
+ },
+ {
+  "word": "mati",
+  "start": 56.2,
+  "end": 56.71
+ },
+ {
+  "word": "Karena",
+  "start": 56.71,
+  "end": 56.99
+ },
+ {
+  "word": "kadang",
+  "start": 56.99,
+  "end": 57.74
+ },
+ {
+  "word": "manusia",
+  "start": 57.74,
+  "end": 58.41
+ },
+ {
+  "word": "bisa",
+  "start": 58.41,
+  "end": 58.87
+ },
+ {
+  "word": "menghukum",
+  "start": 58.87,
+  "end": 59.3
+ },
+ {
+  "word": "mayat",
+  "start": 59.3,
+  "end": 59.97
+ },
+ {
+  "word": "Tapi",
+  "start": 59.97,
+  "end": 60.24
+ },
+ {
+  "word": "sejarah",
+  "start": 60.24,
+  "end": 60.96
+ },
+ {
+  "word": "menghukum",
+  "start": 61.27,
+  "end": 61.97
+ },
+ {
+  "word": "si",
+  "start": 61.97,
+  "end": 62.12
+ },
+ {
+  "word": "pengadilnya",
+  "start": 62.12,
+  "end": 62.9
+ }
+]
